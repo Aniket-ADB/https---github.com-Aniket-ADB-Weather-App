@@ -65,7 +65,7 @@ setWeatherData({
   }
 }
 useEffect(()=>{
-  search("Assam");
+  search("Kolkata");
 },[])
 
   return (
